@@ -1,6 +1,4 @@
 /*
-	Jazmin Even Dorra
-
 	flags.cpp
 
 	This program will allow user to keep track of a collection of flags.
